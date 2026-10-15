@@ -3,7 +3,7 @@ name: F1 Fantasy Table Data Pipeline
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "17 3 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
 
